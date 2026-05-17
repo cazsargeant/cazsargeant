@@ -80,7 +80,7 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 
 **Serverless Data Pipeline — Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in_progress-blue)
 
-Secure, serverless data processing platform handling financial statistics across multiple government departments. Security and data governance central to the architecture.
+Secure, serverless data processing platform handling financial statistics across multiple public sector departments. Security and data governance central to the architecture.
 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?logo=google-cloud&logoColor=white)
@@ -90,7 +90,7 @@ Secure, serverless data processing platform handling financial statistics across
 
 **PSA Platform — Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered **£2M** in operational savings.
+Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered operational savings and custom workflows..
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
