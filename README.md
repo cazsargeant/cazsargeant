@@ -75,3 +75,54 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 ![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
 ![Retail](https://img.shields.io/badge/Retail-ec4899)
 ![Startups](https://img.shields.io/badge/Startups-3fb950)
+
+---
+
+### 🛠️ Selected work
+
+**Serverless Data Pipeline — Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in%20progress-blue)
+
+Secure, serverless data processing platform handling financial statistics across multiple government departments. Security and data governance central to the architecture.
+
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?logo=google-cloud&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-3fb950)
+
+<br>
+
+**PSA Platform — Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+
+Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered **£2M in operational savings**.
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
+
+<br>
+
+**Secure Landing Zone — Formula E Trackside Analytics** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+
+GCP landing zone for real-time trackside analytics for an electric racing team. Integrated BigQuery and Gemini AI for data analysis. Trained the engineering team to operate independently.
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
+
+<br>
+
+**Regulated Data Centre Exit — Major UK Bank** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+
+Rapid migration of on-prem applications to GCE and Kubernetes to meet end-of-life regulatory requirements. Delivered HA/DR architecture, rearchitected legacy systems, and built CI/CD pipelines.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?logo=google-cloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+
+<br>
+
+**AI Chat Assistant — UK Water Company** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+
+Cloud platform infrastructure for a custom Gemini API on Cloud Run, enabling staff to query internal documentation and marketing content.
+
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
