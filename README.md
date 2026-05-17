@@ -1,8 +1,6 @@
 <!-- Replace banner.png with your generated dark banner image (1280x640px recommended) before sharing -->
 <div align="center">
 
-![Banner](./banner.png)
-
 # Hey, I'm Caz 👋
 
 **Platform Engineering Consultant · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
