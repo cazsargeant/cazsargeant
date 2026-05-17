@@ -22,3 +22,37 @@ I help organisations get serious about cloud. That means architecture, infrastru
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ FOUNDATIONS**
+
+Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Architecture](https://img.shields.io/badge/Architecture-555)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-3fb950)
+![Security Strategy](https://img.shields.io/badge/Security_Strategy-f78166)
+
+</td>
+<td width="50%" valign="top">
+
+**🔭 FRONTIER**
+
+Building at the intersection of AI and security — tooling strategy, cloud security posture, and exploring what intelligent systems change about how we build.
+
+![Wiz Champion](https://img.shields.io/badge/Wiz_Champion-FF6B35)
+![AI Dev Tooling](https://img.shields.io/badge/AI_Dev_Tooling-555)
+![GCP GenAI Leader](https://img.shields.io/badge/GCP_GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-8b5cf6)
+
+</td>
+</tr>
+</table>
