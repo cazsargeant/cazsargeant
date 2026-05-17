@@ -12,3 +12,13 @@
 ![Manchester](https://img.shields.io/badge/Manchester-%F0%9F%93%8D-555)
 
 </div>
+
+---
+
+<div align="center">
+
+I help organisations get serious about cloud. That means architecture, infrastructure, platform work — but also the systems, processes and team enablement that make it stick.
+
+</div>
+
+---
