@@ -92,7 +92,7 @@ Secure, serverless data processing platform handling financial statistics across
 
 **PSA Platform — Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered **£2M in operational savings**.
+Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered **£2M** in operational savings.
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
