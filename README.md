@@ -17,7 +17,7 @@
 
 <div align="center">
 
-I help organisations get serious about cloud. That means architecture, infrastructure, platform work — but also the systems, processes and team enablement that make it stick.
+I work at the intersection of cloud strategy and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud.
 
 </div>
 
@@ -80,7 +80,7 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 
 ### 🛠️ Selected work
 
-**Serverless Data Pipeline — Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in%20progress-blue)
+**Serverless Data Pipeline — Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in_progress-blue)
 
 Secure, serverless data processing platform handling financial statistics across multiple government departments. Security and data governance central to the architecture.
 
@@ -126,3 +126,5 @@ Cloud platform infrastructure for a custom Gemini API on Cloud Run, enabling sta
 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
+
+---
