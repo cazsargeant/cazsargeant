@@ -15,7 +15,7 @@
 
 <div align="center">
 
-I work at the intersection of cloud strategy, AI adoption and tooling and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud and AI technology.
+I work at the intersection of cloud strategy, AI adoption, DevSecOps and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud and AI technology.
 
 </div>
 
