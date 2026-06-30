@@ -1,9 +1,8 @@
-<!-- Replace banner.png with your generated dark banner image (1280x640px recommended) before sharing -->
 <div align="center">
 
-# Hey, I'm Caz 👋
+# Hey, I'm Caz
 
-**Platform Engineering & Consultancy · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
+**Technical leadership · Platform engineering · Cloud, security and AI adoption**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cazsargeant)
 [![Beyond](https://img.shields.io/badge/bynd.com-4285F4?logo=google-cloud&logoColor=white)](https://bynd.com)
@@ -15,7 +14,9 @@
 
 <div align="center">
 
-I work at the intersection of Cloud strategy and policy, AI adoption, DevSecOps, and hands-on delivery — helping organisations build the platforms, teams, and practices to scale with Cloud, Security, and AI technologies.
+I lead cloud and platform work for organisations that need technology to become more reliable, secure and useful.
+
+My background is hands-on engineering, but the work is usually bigger than infrastructure: shaping technical direction, helping teams adopt better practices, and turning cloud, security and AI ideas into systems people can actually run.
 
 </div>
 
@@ -23,31 +24,36 @@ I work at the intersection of Cloud strategy and policy, AI adoption, DevSecOps,
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**⚡ FOUNDATIONS**
+### Platform delivery
 
-Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
-
-*Technology Consultancy - Strategy & Advisory - Change & Adoption*
+Designing and delivering cloud platforms, landing zones, migrations, serverless systems and Kubernetes foundations that teams can operate with confidence.
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Infrastructure as Code](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-555)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-3fb950)
-![Security Strategy](https://img.shields.io/badge/Security_Strategy-f78166)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🔭 FRONTIER**
+### Technical leadership
 
-Building at the intersection of AI and security — tooling strategy, cloud security posture, and exploring what intelligent systems change about how we build.
+Bridging strategy and delivery: shaping direction, making trade-offs clear, aligning stakeholders and helping engineering teams adopt better ways of working.
 
-![Wiz Champion](https://img.shields.io/badge/Wiz_Champion-FF6B35)
-![AI Dev Tooling](https://img.shields.io/badge/AI_Dev_Tooling-555)
-![GCP GenAI Leader](https://img.shields.io/badge/GCP_GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-555)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-3fb950)
+![Delivery](https://img.shields.io/badge/Delivery_Leadership-f78166)
+
+</td>
+<td width="33%" valign="top">
+
+### AI enablement
+
+Helping teams use AI where it is genuinely useful: internal assistants, developer tooling, cloud-native AI services and secure adoption patterns.
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
+![AI Tooling](https://img.shields.io/badge/AI_Tooling-555)
 ![AI Security](https://img.shields.io/badge/AI_Security-8b5cf6)
 
 </td>
@@ -56,35 +62,11 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 
 ---
 
-### ☁️ Certifications
+## Selected work
 
-![Professional Cloud Architect](https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?logo=google-cloud&logoColor=white)
-![Professional DevOps Engineer](https://img.shields.io/badge/Professional_DevOps_Engineer-4285F4?logo=google-cloud&logoColor=white)
-![Professional Network Engineer](https://img.shields.io/badge/Professional_Network_Engineer-4285F4?logo=google-cloud&logoColor=white)
-![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
+**Serverless Data Pipeline - Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in_progress-blue)
 
-*Wiz Partner Technical Accreditation*
-*Wiz Securing Cloud Development*
-*Wiz Tech Essentials Training*
-
----
-
-### 🏢 Sectors
-
-![Public Sector](https://img.shields.io/badge/Public_Sector-1d4ed8)
-![Financial Services](https://img.shields.io/badge/Financial_Services-0ea5e9)
-![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
-![Retail](https://img.shields.io/badge/Retail-ec4899)
-![Startups](https://img.shields.io/badge/Startups-3fb950)
-Automotive - Private Sector - Higher Education
-
----
-
-### 🛠️ Selected work
-
-**Serverless Data Pipeline — Public Sector** &nbsp; ![in progress](https://img.shields.io/badge/status-in_progress-blue)
-
-Secure, serverless data processing platform handling financial statistics across multiple public sector departments. Security and data governance central to the architecture.
+Shaping a secure, serverless data processing platform for financial statistics across public sector departments, with governance and operational reliability designed in from the start.
 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?logo=google-cloud&logoColor=white)
@@ -92,9 +74,9 @@ Secure, serverless data processing platform handling financial statistics across
 
 <br>
 
-**PSA Platform — Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+**PSA Platform - Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered operational savings and custom workflows..
+Delivered a full-stack internal platform for staff allocation, project delivery and billing, adding AI-powered insight and workflows that improved operational visibility.
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -102,9 +84,9 @@ Full-stack internal platform for staff allocation, project delivery and billing 
 
 <br>
 
-**Secure Landing Zone — Formula E Trackside Analytics** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+**Secure Landing Zone - Formula E Trackside Analytics** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-GCP landing zone for real-time trackside analytics for an electric racing team. Integrated BigQuery and Gemini AI for data analysis. Trained the engineering team to operate independently.
+Designed a GCP landing zone for real-time trackside analytics, integrating BigQuery and Gemini while enabling the engineering team to operate the platform independently.
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
@@ -112,9 +94,9 @@ GCP landing zone for real-time trackside analytics for an electric racing team. 
 
 <br>
 
-**Regulated Data Centre Exit — Major UK Bank** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+**Regulated Data Centre Exit - Major UK Bank** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Rapid migration of on-prem applications to GCE and Kubernetes to meet end-of-life regulatory requirements. Delivered HA/DR architecture, rearchitected legacy systems, and built CI/CD pipelines.
+Helped deliver a regulated migration from on-premise systems to GCE and Kubernetes, covering HA/DR design, legacy application re-architecture and CI/CD foundations.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?logo=google-cloud&logoColor=white)
@@ -122,11 +104,44 @@ Rapid migration of on-prem applications to GCE and Kubernetes to meet end-of-lif
 
 <br>
 
-**AI Chat Assistant — UK Water Company** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
+**AI Chat Assistant - UK Water Company** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Cloud platform infrastructure for a custom Gemini API on Cloud Run, enabling staff to query internal documentation and marketing content.
+Built the cloud platform foundations for a custom Gemini assistant on Cloud Run, helping staff query internal documentation and content through a governed interface.
 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=google-cloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-cloud&logoColor=white)
 
 ---
+
+## Tools and credentials
+
+![Professional Cloud Architect](https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?logo=google-cloud&logoColor=white)
+![Professional DevOps Engineer](https://img.shields.io/badge/Professional_DevOps_Engineer-4285F4?logo=google-cloud&logoColor=white)
+![Professional Network Engineer](https://img.shields.io/badge/Professional_Network_Engineer-4285F4?logo=google-cloud&logoColor=white)
+![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
+
+![Wiz Champion](https://img.shields.io/badge/Wiz_Champion-FF6B35)
+![Wiz Technical Accreditation](https://img.shields.io/badge/Wiz_Technical_Accreditation-FF6B35)
+![Wiz Securing Cloud Development](https://img.shields.io/badge/Wiz_Securing_Cloud_Development-FF6B35)
+![Security Strategy](https://img.shields.io/badge/Security_Strategy-f78166)
+
+---
+
+## Sectors
+
+![Public Sector](https://img.shields.io/badge/Public_Sector-1d4ed8)
+![Financial Services](https://img.shields.io/badge/Financial_Services-0ea5e9)
+![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
+![Retail](https://img.shields.io/badge/Retail-ec4899)
+![Startups](https://img.shields.io/badge/Startups-3fb950)
+![Higher Education](https://img.shields.io/badge/Higher_Education-555)
+
+---
+
+<div align="center">
+
+Open to conversations about platform leadership, cloud delivery, secure foundations and practical AI adoption.
+
+[LinkedIn](https://www.linkedin.com/in/cazsargeant) · [Beyond](https://bynd.com)
+
+</div>
