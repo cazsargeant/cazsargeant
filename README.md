@@ -15,7 +15,7 @@
 
 <div align="center">
 
-I work at the intersection of cloud strategy and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud.
+I work at the intersection of cloud strategy, AI adoption and tooling and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud and AI technology.
 
 </div>
 
@@ -57,12 +57,15 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 
 ---
 
-### ☁️ Google Cloud Certifications
+### ☁️ Certifications
 
 ![Professional Cloud Architect](https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?logo=google-cloud&logoColor=white)
 ![Professional DevOps Engineer](https://img.shields.io/badge/Professional_DevOps_Engineer-4285F4?logo=google-cloud&logoColor=white)
 ![Professional Network Engineer](https://img.shields.io/badge/Professional_Network_Engineer-4285F4?logo=google-cloud&logoColor=white)
 ![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
+![Wiz Partner Technical Accreditation]
+![Wiz Securing Cloud Development]
+![Wiz Tech Essentials Training]
 
 ---
 
@@ -73,6 +76,7 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 ![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
 ![Retail](https://img.shields.io/badge/Retail-ec4899)
 ![Startups](https://img.shields.io/badge/Startups-3fb950)
+![Automotive] ![Private Sector] ![Higher Education]
 
 ---
 
