@@ -29,7 +29,7 @@ I work at the intersection of Cloud strategy and policy, AI adoption, DevSecOps,
 
 Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
 
-![Technology Consultancy] ![Strategy & Advisory] ![Change & Adoption]
+*Technology Consultancy - Strategy & Advisory - Change & Adoption*
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
