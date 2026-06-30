@@ -3,7 +3,7 @@
 
 # Hey, I'm Caz 👋
 
-**Platform Engineering & Consultancy · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
+**Platform Engineering & Technology Consultancy · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cazsargeant)
 [![Beyond](https://img.shields.io/badge/bynd.com-4285F4?logo=google-cloud&logoColor=white)](https://bynd.com)
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-I work at the intersection of Cloud strategy and policy, AI adoption, DevSecOps, and hands-on delivery — helping organisations build the platforms, teams, and practices to scale with Cloud, Security, and AI technologies.
+I work at the intersection of Technology strategy and policy, Cloud & AI adoption, DevSecOps, and hands-on delivery — helping organisations build the platforms, teams, and practices to scale with Cloud, Security, and AI technologies.
 
 </div>
 
