@@ -29,7 +29,9 @@ I work at the intersection of Technology strategy and policy, Cloud & AI adoptio
 
 Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
 
-*Technology Consultancy - Strategy & Advisory - Change & Adoption*
+![Technology Consultancy](https://img.shields.io/badge/Technology_Consultancy-555)
+![Strategy & Advisory](https://img.shields.io/badge/Strategy_%26_Advisory-555)
+![Change & Adoption](https://img.shields.io/badge/Change_%26_Adoption-555)
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -63,9 +65,9 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 ![Professional Network Engineer](https://img.shields.io/badge/Professional_Network_Engineer-4285F4?logo=google-cloud&logoColor=white)
 ![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
 
-*Wiz Partner Technical Accreditation*
-*Wiz Securing Cloud Development*
-*Wiz Tech Essentials Training*
+![Wiz Partner Technical Accreditation](https://img.shields.io/badge/Wiz_Partner_Technical_Accreditation-FF6B35)
+![Wiz Securing Cloud Development](https://img.shields.io/badge/Wiz_Securing_Cloud_Development-FF6B35)
+![Wiz Tech Essentials Training](https://img.shields.io/badge/Wiz_Tech_Essentials_Training-FF6B35)
 
 ---
 
@@ -76,7 +78,9 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 ![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
 ![Retail](https://img.shields.io/badge/Retail-ec4899)
 ![Startups](https://img.shields.io/badge/Startups-3fb950)
-Automotive - Private Sector - Higher Education
+![Automotive](https://img.shields.io/badge/Automotive-555)
+![Private Sector](https://img.shields.io/badge/Private_Sector-555)
+![Higher Education](https://img.shields.io/badge/Higher_Education-555)
 
 ---
 
@@ -94,7 +98,7 @@ Secure, serverless data processing platform handling financial statistics across
 
 **PSA Platform — Professional Services Firm** &nbsp; ![done](https://img.shields.io/badge/status-done-brightgreen)
 
-Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered operational savings and custom workflows..
+Full-stack internal platform for staff allocation, project delivery and billing with AI-powered insight. Delivered operational savings and custom workflows.
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
