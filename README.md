@@ -63,9 +63,9 @@ Building at the intersection of AI and security — tooling strategy, cloud secu
 ![Professional Network Engineer](https://img.shields.io/badge/Professional_Network_Engineer-4285F4?logo=google-cloud&logoColor=white)
 ![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-4285F4?logo=google-cloud&logoColor=white)
 
-Wiz Partner Technical Accreditation
-Wiz Securing Cloud Development
-Wiz Tech Essentials Training
+*Wiz Partner Technical Accreditation*
+*Wiz Securing Cloud Development*
+*Wiz Tech Essentials Training*
 
 ---
 
@@ -76,7 +76,7 @@ Wiz Tech Essentials Training
 ![Logistics](https://img.shields.io/badge/Logistics-f59e0b)
 ![Retail](https://img.shields.io/badge/Retail-ec4899)
 ![Startups](https://img.shields.io/badge/Startups-3fb950)
-![Automotive] ![Private Sector] ![Higher Education]
+Automotive - Private Sector - Higher Education
 
 ---
 
