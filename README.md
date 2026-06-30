@@ -3,7 +3,7 @@
 
 # Hey, I'm Caz 👋
 
-**Platform Engineering Consultant · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
+**Platform Engineering & Consultantancy · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cazsargeant)
 [![Beyond](https://img.shields.io/badge/bynd.com-4285F4?logo=google-cloud&logoColor=white)](https://bynd.com)
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-I work at the intersection of cloud strategy, AI adoption, DevSecOps and hands-on delivery — helping organisations build the platforms, teams, and practices to scale on Google Cloud and AI technology.
+I work at the intersection of Cloud strategy and policy, AI adoption, DevSecOps, and hands-on delivery — helping organisations build the platforms, teams, and practices to scale with Cloud, Security, and AI technologies.
 
 </div>
 
@@ -29,12 +29,10 @@ I work at the intersection of cloud strategy, AI adoption, DevSecOps and hands-o
 
 Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
 
+![Technology Consultancy] ![Strategy & Advisory] ![Change & Adoption]
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Infrastructure as Code](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-555)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-3fb950)
 ![Security Strategy](https://img.shields.io/badge/Security_Strategy-f78166)
