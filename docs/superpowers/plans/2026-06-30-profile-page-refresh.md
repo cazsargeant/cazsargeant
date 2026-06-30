@@ -33,7 +33,7 @@
 
 **Interfaces:**
 - Consumes: `docs/superpowers/specs/2026-06-30-profile-page-refresh-design.md`
-- Produces: GitHub profile README with header, thesis, capability blocks, selected work, reference project note, tools/credentials, sectors, and contact links.
+- Produces: GitHub profile README with header, thesis, capability blocks, selected work, tools/credentials, sectors, and contact links.
 
 - [ ] **Step 1: Replace README with the approved structure**
 
