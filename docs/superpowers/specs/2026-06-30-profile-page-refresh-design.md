@@ -73,13 +73,9 @@ Maintain the same current examples unless better public-safe examples are provid
 
 Copy should be outcome-led rather than case-study heavy.
 
-### 5. Reference Projects / Pinned Repo Strategy
+### 5. Pinned Repo Strategy
 
-Add a small forward-looking line near selected work:
-
-```markdown
-I am gradually publishing small, focused reference projects around secure cloud foundations, Kubernetes, Terraform, and practical AI enablement.
-```
+Use GitHub pinned repositories to support the profile story, but do not add a forward-looking reference-project claim to the README.
 
 Recommended future pinned repo set:
 
@@ -116,7 +112,7 @@ Use:
 - A three-column table for capability blocks.
 - Minimal, grouped badges.
 - No GitHub stats, streak widgets, trophy widgets, or large animated elements.
-- No broken banner placeholder unless a real `banner.png` is committed.
+- No broken banner reference unless a real `banner.png` is committed.
 
 The final README should feel tidy, senior, and easy to scan on both desktop and mobile GitHub.
 
@@ -134,5 +130,5 @@ The final README should feel tidy, senior, and easy to scan on both desktop and 
 - AI is present as a practical enablement thread, not hype or the main brand.
 - The body is less badge-heavy than the current README.
 - Selected work reads as proof of senior delivery and leadership.
-- Future pinned repo suggestions are included without overstating current public work.
+- Future pinned repo suggestions remain implementation guidance and are not presented as public work in the README.
 - The README remains valid GitHub-flavoured Markdown.
