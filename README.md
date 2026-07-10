@@ -3,7 +3,7 @@
 
 # Hey, I'm Caz 👋
 
-**Platform Engineering & Technology Consultancy · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
+**Platform Engineering · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cazsargeant)
 [![Beyond](https://img.shields.io/badge/bynd.com-4285F4?logo=google-cloud&logoColor=white)](https://bynd.com)
