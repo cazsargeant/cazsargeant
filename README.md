@@ -3,10 +3,9 @@
 
 # Hey, I'm Caz 👋
 
-**Platform Engineering · [Beyond](https://bynd.com) · Google Cloud Premier Partner**
+**Cloud Platform Engineer · Infrastructure, DevSecOps · 4× GCP Certified**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cazsargeant)
-[![Beyond](https://img.shields.io/badge/bynd.com-4285F4?logo=google-cloud&logoColor=white)](https://bynd.com)
 ![Manchester](https://img.shields.io/badge/Manchester-%F0%9F%93%8D-555)
 
 </div>
@@ -15,7 +14,7 @@
 
 <div align="center">
 
-I work at the intersection of Technology strategy and policy, Cloud & AI adoption, DevSecOps, and hands-on delivery — helping organisations build the platforms, teams, and practices to scale with Cloud, Security, and AI technologies.
+I'm a Platform Engineer at a Google Cloud Premier Partner consultancy, working across organisations of all sizes and sectors. My work sits at the intersection of hands-on infrastructure engineering, DevSecOps, and the tooling and enablement that help teams actually adopt what gets built.
 
 </div>
 
@@ -27,7 +26,7 @@ I work at the intersection of Technology strategy and policy, Cloud & AI adoptio
 
 **⚡ FOUNDATIONS**
 
-Cloud infrastructure and platform engineering across large enterprise at [Beyond](https://bynd.com). Designing, building and operating at scale.
+Secure, Terraform-managed cloud foundations — serverless, Kubernetes, CI/CD pipelines, automation, landing zones, and data infrastructure. Designing, building and operating at scale.
 
 ![Technology Consultancy](https://img.shields.io/badge/Technology_Consultancy-555)
 ![Strategy & Advisory](https://img.shields.io/badge/Strategy_%26_Advisory-555)
@@ -45,7 +44,7 @@ Cloud infrastructure and platform engineering across large enterprise at [Beyond
 
 **🔭 FRONTIER**
 
-Building at the intersection of AI and security — tooling strategy, cloud security posture, and exploring what intelligent systems change about how we build.
+Building and running the infrastructure that puts AI into production — securely and with an eye on cost. Big on developer experience: the tooling, shared skills, and community that let engineers use AI safely and well, including leading our internal engineering community, Tech Collider, and mentoring through our Women in Tech scheme.
 
 ![Wiz Champion](https://img.shields.io/badge/Wiz_Champion-FF6B35)
 ![AI Dev Tooling](https://img.shields.io/badge/AI_Dev_Tooling-555)
